@@ -1,5 +1,5 @@
 
-# Cricket Best 11 Players Analysis Project
+# Best 11 Cricket Players Analysis Project
 
 ## Overview
 
@@ -30,6 +30,8 @@ After a comprehensive analysis, the best 11 players have been identified as foll
 
 - Python for data analysis
 - Power BI for visualization
+
+These insights provide a comprehensive understanding of best 11 cricket players performance."For more details, refer to the Analysis and Visualization sections."
 
   
 
